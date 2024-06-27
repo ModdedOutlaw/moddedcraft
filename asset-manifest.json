@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/moddedcraft/static/css/main.e252de70.css",
-    "main.js": "/moddedcraft/static/js/main.2f307de4.js",
+    "main.js": "/moddedcraft/static/js/main.4fb86ca9.js",
     "static/js/453.52c5dfe3.chunk.js": "/moddedcraft/static/js/453.52c5dfe3.chunk.js",
     "static/media/OIG4_2.jpg": "/moddedcraft/static/media/OIG4_2.8f9fd62d6c60db716865.jpg",
     "index.html": "/moddedcraft/index.html",
     "main.e252de70.css.map": "/moddedcraft/static/css/main.e252de70.css.map",
-    "main.2f307de4.js.map": "/moddedcraft/static/js/main.2f307de4.js.map",
+    "main.4fb86ca9.js.map": "/moddedcraft/static/js/main.4fb86ca9.js.map",
     "453.52c5dfe3.chunk.js.map": "/moddedcraft/static/js/453.52c5dfe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e252de70.css",
-    "static/js/main.2f307de4.js"
+    "static/js/main.4fb86ca9.js"
   ]
 }
